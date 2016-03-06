@@ -1,2 +1,2 @@
-# .vagrant.d
+# vagrant.d
 Vagrant configuration
